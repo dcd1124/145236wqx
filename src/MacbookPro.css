@@ -115,7 +115,7 @@ body {
     left: calc(664px + (288px - 189px) / 2);
     top: calc(95px + 256px);
     position: absolute;
-    z-index: 114;
+    z-index: 160;
     background-color: transparent;
 }
 
